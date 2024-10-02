@@ -1,6 +1,6 @@
 from pydantic_settings import BaseSettings
+from logs import logger_instance
 import os
-
 class Settings(BaseSettings):
     app_name: str = "Geral"
     debug: bool
