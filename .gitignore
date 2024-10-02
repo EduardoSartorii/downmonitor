@@ -13,6 +13,7 @@ env.bak/
 venv.bak/
 ENV/
 ENV.bak/
+*.env
 
 # Ignorar arquivos de configuração do editor
 .vscode/
