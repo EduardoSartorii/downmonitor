@@ -1,0 +1,10 @@
+site_name: StatusWatch
+repo_url: https://github.com/EduardoSartorii/downmonitor
+repo_name: EduardoSartorii/downmonitor
+edit_uri: tree/main/docs
+theme:
+  name: mkdocs
+  language: pt-BR
+
+markdown_extensions:
+  - attr_list
